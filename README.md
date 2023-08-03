@@ -16,6 +16,8 @@ Let's go step by step:
 9. Clicl `Apply` > `Ok`
 8. Click `Next` > `Next` > `Create`
 ### Note that in order for this to connect we will need the BusyBox image.
+https://hub.docker.com/_/busybox
+
 9* You will need to transfer that image to your air gapped network if you are using one. the following line is the relevent line when I run `docker images` on my host machine
 
     busybox            latest            a416a98b71e2   2 weeks ago      4.26MB
