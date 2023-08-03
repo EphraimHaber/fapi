@@ -25,6 +25,7 @@ https://hub.docker.com/_/busybox
 10. This will build (now offline) another image pycharm_helpers (and spin a container of course)
 11. You now have intellisense from the IDE.
 12. In order to debug we will need to make a debug run config
+
     <img width="492" alt="image" src="https://github.com/EphraimHaber/fapi/assets/61934858/f314de67-2874-46d3-b670-078633d199d9">
 13. Click on the green triangle and then on `Debug main`
     
