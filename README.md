@@ -13,7 +13,7 @@ Let's go step by step:
 5. Go to the project python interpreter
 6. On the top right corner of the screen click `Add Interpreter` > `On Docker compose`
 7. <img width="309" alt="image" src="https://github.com/EphraimHaber/fapi/assets/61934858/e2e94255-07e8-4b1b-b95e-1b2da8587237">
-9. Clicl `Apply` > `Ok`
+9. Click `Apply` > `Ok`
 8. Click `Next` > `Next` > `Create`
 ### Note that in order for this to connect we will need the BusyBox image.
 https://hub.docker.com/_/busybox
